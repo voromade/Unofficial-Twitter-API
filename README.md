@@ -1,6 +1,8 @@
 <h1 align="center">Full Twitter API</h1>
 
-Twitter's internal API (unofficial). It has been developed through reverse engineering of the Twitter IOS app and web front-end. This API can be utilized to create any type of Twitter bot, impression farm, or anything you would need.
+<p align="center">
+  Twitter's internal API (unofficial). It has been developed through reverse engineering of the Twitter IOS app and web front-end. This API can be utilized to create any type of Twitter bot, impression farm, or anything you would need.
+</p>
 
 ## Benefits
 *  **Bypasses any rate limits set by the Official Twitter API**
