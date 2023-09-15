@@ -1,4 +1,4 @@
-<h1 align="center">Full (Unofficial) Twitter API</h1>
+<h1 align="center">Full Twitter API</h1>
 
 Twitter's internal API (unofficial). It has been developed through reverse engineering of the Twitter IOS app and web front-end. This API can be utilized to create any type of Twitter bot, impression farm, or anything you would need.
 
