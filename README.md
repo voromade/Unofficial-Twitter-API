@@ -4,7 +4,7 @@
   Twitter's internal API (unofficial). It has been developed through reverse engineering of the Twitter IOS app and web front-end. This API can be utilized to create any type of Twitter bot, impression farm, or anything you would need.
 </p>
 
-## Benefits
+## Benefits of my API:
 *  **Bypasses any rate limits set by the Official Twitter API**
 * **No API Keys required!** Only username, password, and email.
 * **Increased Daily Tweet Limit**: Post up to 6000 tweets per day, compared to the official plans that only support 2400 per day.
@@ -19,7 +19,7 @@
 * **Proxy Support**: Ability to utilize proxies for enhanced privacy and network flexibility.
 * **Easy to Integrate**: No external dependencies needed! 
 
-### Example Functions
+### Example Functions:
 
 * **Tweet**: Post a tweet.
 * **Reply to Tweet**: Reply to a specific tweet.
@@ -37,6 +37,6 @@
 * **Typing Indicator**: Display typing indicator while sending direct messages, etc.
 
 
-### `👨‍💻` Pricing / Inquiries / Contact
+### `👨‍💻` Pricing / Inquiries / Contact:
 * **Telegram**: @voromade
 * **Discord**: @voromade
